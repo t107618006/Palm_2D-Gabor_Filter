@@ -2,7 +2,7 @@
 This code is part of the Gabor Filter program used in the Journal: 
 Palm vein recognition scheme based on an adaptive Gabor filter
 
-The program also contains another method for extracting the maximal ROI.
+The program contains Feature extraction and Maximum ROI.
 
 You can use "2D_Gabor_mian.cpp" for the main program and add other code to resourec and head file.
 
