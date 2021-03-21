@@ -15,4 +15,6 @@ Real part
 Imaginary part  
 ![image](https://github.com/t107618006/Palm_2D-Gabor_Filter/blob/main/norm_gabor_imaginary_001_l_850_01.png)
 ![image](https://github.com/t107618006/Palm_2D-Gabor_Filter/blob/main/norm_gabor_imaginary_005_l_850_01.png)  
-Dependent environment:Opencv 3.4.3
+
+
+Dependent environment:VS C++ & Opencv 3.4.3
